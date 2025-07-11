@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.env
+venv/
+summarizer_env/
+uploads/
+*.log
+.DS_Store
+users.json
+local_models/

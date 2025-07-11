@@ -1,0 +1,10 @@
+streamlit
+langchain
+sentence-transformers
+pdfplumber
+docx
+pytesseract
+pdf2image
+Pillow
+reportlab
+requests
